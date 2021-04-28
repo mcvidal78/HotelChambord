@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(#eec66c, white ,#f7e6a3 );
+    height : 100%;
+}
+
+/* *************   HEADER  **************** */
+
+nav a{
+    color : #f7e6a3!important;
+}
+
+nav img {
+    width: 140px;
+}
+.dark {
+    color : black!important;
+}
+
+.or {
+    background-color: #f7e6a3!important;
+}
+
+/*  ********** MAIN ************ */
+
+
+
+
+
+div.test {
+    height: 600px;
+}
+
+
+/* *************** FOOTER ************** */
+
+.footer a {
+    font-size: 0.9em;
+    color: #f7e6a3;
+    text-decoration : none;
+}
+
+footer {
+    color : #f7e6a3;
+    font-size: 0.8em;
+}
+
